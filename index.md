@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <title>Poetry</title>
   </head>
   <body>
-    <h1>Poetry</h1>
   <body>
 <html>    
